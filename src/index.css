@@ -37,20 +37,20 @@ h1 {
 .countdown-item {
   color: #111;
   font-weight: normal;
-  font-size: 160px;
+  font-size: 2em;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  line-height: 100px;
-  margin: 80px;
+  line-height: 0.8em;
+  margin: 30px;
   padding-top: 10px;
   position: relative;
 }
 
 .countdown-item span {
   color: #333;
-  font-size: 50px;
+  font-size: 0.4em;
   font-weight: 600;
   text-transform: uppercase;
 }
